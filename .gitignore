@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#notebooks-lab
+S1LAB1_construcción_calibracion_arboles.ipynb
+S1LAB2_modelos_ensamblajes.ipynb
+
