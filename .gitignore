@@ -133,3 +133,7 @@ S1LAB1_construcción_calibracion_arboles.ipynb
 S1LAB2_modelos_ensamblajes.ipynb
 
 .DS_Store
+cache_dir/cached_train_bert_512_0_2
+runs
+outputs
+*.h5
