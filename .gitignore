@@ -137,3 +137,4 @@ cache_dir/cached_train_bert_512_0_2
 runs
 outputs
 *.h5
+*.zip
